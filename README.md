@@ -2,8 +2,9 @@
 
 Python code of the research paper "Designing quantum many-body matter with conditional generative adversarial networks"
 
-link to paper: 'to be added'
+Link to paper: 'to be added'
 
+Date: 28.01.2022
 
 Generative Adversarial Networks (GANs) to simulate one-dimensional many-body systems:
 
