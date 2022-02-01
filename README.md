@@ -2,7 +2,7 @@
 
 Python code of the research paper "Designing quantum many-body matter with conditional generative adversarial networks"
 
-Link to paper: 'to be added'
+Link to paper: https://arxiv.org/abs/2201.12127
 
 Date: 28.01.2022
 
